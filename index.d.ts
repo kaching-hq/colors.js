@@ -61,6 +61,7 @@ export const red: Color;
 export const green: Color;
 export const yellow: Color;
 export const blue: Color;
+export const orange: Color;
 export const magenta: Color;
 export const cyan: Color;
 export const white: Color;
@@ -102,6 +103,7 @@ declare global {
         green: string;
         yellow: string;
         blue: string;
+        orange: string;
         magenta: string;
         cyan: string;
         white: string;
