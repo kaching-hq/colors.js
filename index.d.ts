@@ -14,6 +14,7 @@ export interface Color {
     green: Color;
     yellow: Color;
     blue: Color;
+    orange: Color;
     magenta: Color;
     cyan: Color;
     white: Color;
